@@ -15,6 +15,7 @@ Include (or import) "ziputil.h" and use the following functions:
     int compress_path(const char *source, const char *zipfile, int level);
     int decompress_path(const char *zipfile, const char *destination);
 
+.
 
 License
 -------
@@ -25,10 +26,7 @@ Copyright (C) 2008 Coding Robots
 
 Based on work by:
 
-Mark Adler (zlib), 
-
-Copyright (C) 1998-2005 Gilles Vollant,
-Copyright (c) 1990-2000 Info-ZIP,
+Mark Adler (zlib), Copyright (C) 1998-2005 Gilles Vollant, Copyright (c) 1990-2000 Info-ZIP,
  
 This software is provided 'as-is', without any express or implied
 warranty.  In no event will the authors be held liable for any damages
