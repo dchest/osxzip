@@ -17,7 +17,7 @@ Include (or import) "ziputil.h" and use the following functions:
 
 
 License
--------- 
+-------
 
 Distributed under zlib license.
 
